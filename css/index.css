@@ -10,6 +10,7 @@
     margin: auto;
     font-weight: bold;
     
+    
 }
 
 .login-form label,
@@ -45,7 +46,7 @@
 .main-login__title{
     text-align: center;
     color: #ff5454;
-    padding-top: 100px;
+    padding-top: 20px;
 }
 
 .main-nav {
